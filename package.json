@@ -1,0 +1,28 @@
+{
+  "name": "hotel-web-site",
+  "version": "1.0.0",
+  "description": "hotel-web-site",
+  "type": "module",
+  "main": "index.js",
+  "scripts": {
+    "start": "node app.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hotel-web-site/hotel-web-site.git"
+  },
+  "keywords": [
+    "4"
+  ],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/hotel-web-site/hotel-web-site/issues"
+  },
+  "homepage": "https://github.com/hotel-web-site/hotel-web-site#readme",
+  "dependencies": {
+    "express": "^5.1.0",
+    "mongoose": "^8.19.3"
+  }
+}
